@@ -1,0 +1,21 @@
+body{
+    width: 715px;
+    margin: 0 auto;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+form{
+    width: 715px;
+}
+
+table{
+    width: 715px;
+}
+
+img{
+    width:48px;
+    height: 48px;
+}
